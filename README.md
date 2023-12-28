@@ -1,0 +1,1 @@
+# padrao-repositorio-net-core-8
