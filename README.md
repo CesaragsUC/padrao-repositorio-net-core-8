@@ -9,4 +9,5 @@
 - UnitOfWork
 - Generics
 
-Caso tenha interese, se increva no meu canal do youtube: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXMJou_K46zOLuIZS3ASI7g)
+Caso tenha interese, me siga nas minhas redes sociais: [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXMJou_K46zOLuIZS3ASI7g)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))]([https://www.youtube.com/channel/UCXMJou_K46zOLuIZS3ASI7g](https://www.linkedin.com/in/cesar-augusto-7131ba153/))
