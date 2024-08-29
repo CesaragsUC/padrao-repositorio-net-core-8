@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1c3k28HnTzqOURx3PwVai1xu+iwnxvw1/IOpQ34jlyrEc9Y+4cIM8UtrQ3qp74ZKCLUrymKqFAyohMjCBAcScQ==",
+  "dgSpecHash": "Xk0Sf8GtV7w=",
   "success": true,
-  "projectFilePath": "D:\\Overview ASP.NET\\API basic\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "G:\\DevProjetos\\Dotnet8\\Apis\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -5,6 +5,7 @@ using back_end.Services.Interfaces;
 using Domain.Entidades;
 using Domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Serilog;
 
 namespace back_end.Services
 {
@@ -35,7 +36,10 @@ namespace back_end.Services
             //opcao com automapper
             var funcionario = _mapper.Map<Funcionario>(dto);
 
-            await _unitOfWork.Repository<Funcionario>().Adicionar(funcionario);
+           // await _unitOfWork.Repository<Funcionario>().Adicionar(funcionario);
+
+            await SaveAsync(funcionario, _unitOfWork.Repository<Funcionario>().Adicionar);
+
             await _unitOfWork.Save();
         }
 
@@ -48,7 +52,8 @@ namespace back_end.Services
             funcionario.Nome = dto.Nome;
             funcionario.CPF = dto.CPF;
 
-            await _unitOfWork.Repository<Funcionario>().Atualizar(funcionario);
+           // await _unitOfWork.Repository<Funcionario>().Atualizar(funcionario);
+            await SaveAsync(funcionario, _unitOfWork.Repository<Funcionario>().Atualizar);
             await _unitOfWork.Save();
         }
 
@@ -93,6 +98,52 @@ namespace back_end.Services
 
             await _unitOfWork.Save();
 
+        }
+
+        protected async Task<bool> SaveAsync<T>(IEnumerable<T> dataList, Func<T, Task> repository)
+        where T : Entity, new()
+        {
+            var isValid = true;
+            foreach (var data in dataList)
+            {
+                try
+                {
+                    await repository(data);
+                }
+                catch (Exception ex)
+                {
+
+                    Log.Fatal(
+                        ex,
+                        "Houve um erro ao salvar na tabela {Tabela} com {Id}",
+                        typeof(T).Name,
+                        data?.Id);
+
+                    isValid = false;
+                }
+            }
+            return isValid;
+        }
+
+        protected async Task<bool> SaveAsync<T>(T data, Func<T, Task> repository)
+        where T : class, new()
+        {
+            var isValid = false;
+
+            try
+            {
+                await repository(data);
+            }
+            catch (Exception ex)
+            {
+                Log.Fatal(ex,
+                     "Houve um erro ao salvar na tabela {Tabela}",
+                     typeof(T).Name);
+
+                isValid = false;
+            }
+
+            return isValid;
         }
     }
 }

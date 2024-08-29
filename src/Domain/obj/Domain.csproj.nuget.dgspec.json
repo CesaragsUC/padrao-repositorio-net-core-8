@@ -1,25 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Overview ASP.NET\\API basic\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj": {}
+    "G:\\DevProjetos\\Dotnet8\\Apis\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Overview ASP.NET\\API basic\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj": {
+    "G:\\DevProjetos\\Dotnet8\\Apis\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Overview ASP.NET\\API basic\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "G:\\DevProjetos\\Dotnet8\\Apis\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Overview ASP.NET\\API basic\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj",
+        "projectPath": "G:\\DevProjetos\\Dotnet8\\Apis\\padrao-repositorio-net-core-8\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Overview ASP.NET\\API basic\\padrao-repositorio-net-core-8\\src\\Domain\\obj\\",
+        "outputPath": "G:\\DevProjetos\\Dotnet8\\Apis\\padrao-repositorio-net-core-8\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,6 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

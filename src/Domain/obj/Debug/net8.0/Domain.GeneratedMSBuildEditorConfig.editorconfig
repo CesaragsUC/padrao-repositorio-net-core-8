@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Domain
-build_property.ProjectDir = D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Domain\
+build_property.ProjectDir = G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

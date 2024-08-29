@@ -33,3 +33,21 @@ D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Infra\obj\Debug\
 D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.pdb
 D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
 D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\ref\Infra.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\bin\Debug\net8.0\Infra.deps.json
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\bin\Debug\net8.0\Infra.runtimeconfig.json
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\bin\Debug\net8.0\Infra.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\bin\Debug\net8.0\Infra.pdb
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\bin\Debug\net8.0\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\bin\Debug\net8.0\Domain.pdb
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.csproj.AssemblyReference.cache
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.AssemblyInfoInputs.cache
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.AssemblyInfo.cs
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.csproj.CoreCompileInputs.cache
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.sourcelink.json
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.csproj.Up2Date
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\refint\Infra.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.pdb
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\Infra.genruntimeconfig.cache
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Infra\obj\Debug\net8.0\ref\Infra.dll

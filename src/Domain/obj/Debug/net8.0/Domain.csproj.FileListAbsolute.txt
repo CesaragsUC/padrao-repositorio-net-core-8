@@ -21,3 +21,15 @@ D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Domain\obj\Debug
 D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Overview ASP.NET\API basic\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\ref\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\bin\Debug\net8.0\Domain.deps.json
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\bin\Debug\net8.0\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\bin\Debug\net8.0\Domain.pdb
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\Domain.pdb
+G:\DevProjetos\Dotnet8\Apis\padrao-repositorio-net-core-8\src\Domain\obj\Debug\net8.0\ref\Domain.dll
